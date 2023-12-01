@@ -1,0 +1,4 @@
+# .gitattributes
+*.dart linguist-language=Dart
+*.yaml linguist-language=Dart
+*.yml linguist-language=Dart
