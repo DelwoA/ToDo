@@ -2,3 +2,5 @@
 *.dart linguist-language=Dart
 *.yaml linguist-language=Dart
 *.yml linguist-language=Dart
+*.dart linguist-language=Dart
+lib/**/*.dart linguist-language=Dart
